@@ -1,0 +1,6 @@
+Dieses ist ein zweites File im HelloWorld Repository. 
+textfile_02 - Zeile 2
+textfile_02 - Zeile 3
+textfile_02 - Zeile 4
+textfile_02 - Zeile 5
+Und hier die letzte Zeile. 
